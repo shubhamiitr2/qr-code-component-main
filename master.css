@@ -1,0 +1,47 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+}
+
+.layout{
+background-color:white;
+width: 350px;
+height: 530px;
+border-radius: 20px;
+float:none;
+margin:0 auto;
+
+
+
+}
+
+.tile{
+  border-radius: 20px;
+  width:300px;
+  text-align: center;
+  float:none;
+  margin:0 auto;
+
+
+}
+
+.tile h2{
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+.tile p{
+ font-family: 'Red Hat Display', sans-serif;
+ color:  hsl(220, 15%, 55%);
+}
+.tile img{
+  border-radius: 10px;
+  margin-top: 30px;
+  width:300px;
+  height: 300px;
+
+
+}
+
+.attribution{
+position: relative;
+margin-top: 50px;
+}
